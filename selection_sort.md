@@ -22,7 +22,9 @@ Yukarıdaki aşamada görüldüğü üzere üçüncü en küçük sayı zaten ol
 **<p> 5. [2,6,16,22,18,27] <p>**
 Ve bu şekilde işlemler en son sayı da yerine geçene kadar devam eder..
 **<p> 6. [2,6,16,18,22,27] <p>**
->
+
+> *Yukarıdaki sıralamanın Big-O gösterimi n.(n+1)/2'den O(n^2) dir.*
+
 > *Dizi sıralandıktan sonra 18 sayısı "Average Case" kapsamına girer.*
 
 **[7,3,5,8,2,9,4,15,6]** dizisinin Selection Sort'a göre ilk 4 adımı:
